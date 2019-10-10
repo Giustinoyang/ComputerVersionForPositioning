@@ -1,0 +1,9 @@
+/BSR/
+/models/
+/sweeps*
+/boxes/
+
+*.jpg
+*.png
+*.m~
+*.swp
